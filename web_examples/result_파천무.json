@@ -1,0 +1,390 @@
+{
+	"nodes": [
+		{
+			"id": "괴인",
+			"group": 0
+		},
+		{
+			"id": "사부",
+			"group": 1
+		},
+		{
+			"id": "괴승",
+			"group": 2
+		},
+		{
+			"id": "소제",
+			"group": 3
+		},
+		{
+			"id": "흡혈",
+			"group": 4
+		},
+		{
+			"id": "망아",
+			"group": 5
+		},
+		{
+			"id": "설아",
+			"group": 6
+		},
+		{
+			"id": "소림",
+			"group": 7
+		},
+		{
+			"id": "조태명",
+			"group": 8
+		},
+		{
+			"id": "황승국",
+			"group": 9
+		},
+		{
+			"id": "염라",
+			"group": 10
+		},
+		{
+			"id": "이원패",
+			"group": 11
+		},
+		{
+			"id": "거지",
+			"group": 12
+		},
+		{
+			"id": "주천혜",
+			"group": 13
+		},
+		{
+			"id": "노납",
+			"group": 14
+		},
+		{
+			"id": "사검평",
+			"group": 15
+		}
+	],
+	"links": [
+		{
+			"source": "괴인",
+			"target": "이원패",
+			"value": -8.54
+		},
+		{
+			"source": "괴인",
+			"target": "노납",
+			"value": 1.61
+		},
+		{
+			"source": "괴인",
+			"target": "사검평",
+			"value": -18.61
+		},
+		{
+			"source": "사부",
+			"target": "흡혈",
+			"value": -5.0
+		},
+		{
+			"source": "사부",
+			"target": "망아",
+			"value": -2.75
+		},
+		{
+			"source": "사부",
+			"target": "염라",
+			"value": -26.61
+		},
+		{
+			"source": "사부",
+			"target": "사검평",
+			"value": -10.15
+		},
+		{
+			"source": "괴승",
+			"target": "망아",
+			"value": 2.32
+		},
+		{
+			"source": "괴승",
+			"target": "이원패",
+			"value": -1.55
+		},
+		{
+			"source": "괴승",
+			"target": "노납",
+			"value": -10.4
+		},
+		{
+			"source": "소제",
+			"target": "주천혜",
+			"value": -17.24
+		},
+		{
+			"source": "소제",
+			"target": "사검평",
+			"value": -8.85
+		},
+		{
+			"source": "흡혈",
+			"target": "사부",
+			"value": -5.0
+		},
+		{
+			"source": "흡혈",
+			"target": "망아",
+			"value": -13.87
+		},
+		{
+			"source": "흡혈",
+			"target": "황승국",
+			"value": -2.95
+		},
+		{
+			"source": "흡혈",
+			"target": "염라",
+			"value": -4.9
+		},
+		{
+			"source": "흡혈",
+			"target": "이원패",
+			"value": -5.0
+		},
+		{
+			"source": "흡혈",
+			"target": "사검평",
+			"value": -11.56
+		},
+		{
+			"source": "망아",
+			"target": "사부",
+			"value": -2.75
+		},
+		{
+			"source": "망아",
+			"target": "괴승",
+			"value": 2.32
+		},
+		{
+			"source": "망아",
+			"target": "흡혈",
+			"value": -13.87
+		},
+		{
+			"source": "망아",
+			"target": "소림",
+			"value": -1.0
+		},
+		{
+			"source": "망아",
+			"target": "이원패",
+			"value": -0.53
+		},
+		{
+			"source": "망아",
+			"target": "사검평",
+			"value": -5.0
+		},
+		{
+			"source": "설아",
+			"target": "사검평",
+			"value": -15.92
+		},
+		{
+			"source": "소림",
+			"target": "망아",
+			"value": -1.0
+		},
+		{
+			"source": "소림",
+			"target": "노납",
+			"value": 0.85
+		},
+		{
+			"source": "조태명",
+			"target": "황승국",
+			"value": -6.61
+		},
+		{
+			"source": "조태명",
+			"target": "염라",
+			"value": 5.0
+		},
+		{
+			"source": "조태명",
+			"target": "사검평",
+			"value": -13.28
+		},
+		{
+			"source": "황승국",
+			"target": "흡혈",
+			"value": -2.95
+		},
+		{
+			"source": "황승국",
+			"target": "조태명",
+			"value": -6.61
+		},
+		{
+			"source": "황승국",
+			"target": "사검평",
+			"value": -8.7
+		},
+		{
+			"source": "염라",
+			"target": "사부",
+			"value": -26.61
+		},
+		{
+			"source": "염라",
+			"target": "흡혈",
+			"value": -4.9
+		},
+		{
+			"source": "염라",
+			"target": "조태명",
+			"value": 5.0
+		},
+		{
+			"source": "염라",
+			"target": "이원패",
+			"value": -5.36
+		},
+		{
+			"source": "염라",
+			"target": "사검평",
+			"value": -18.97
+		},
+		{
+			"source": "이원패",
+			"target": "괴인",
+			"value": -8.54
+		},
+		{
+			"source": "이원패",
+			"target": "괴승",
+			"value": -1.55
+		},
+		{
+			"source": "이원패",
+			"target": "흡혈",
+			"value": -5.0
+		},
+		{
+			"source": "이원패",
+			"target": "망아",
+			"value": -0.53
+		},
+		{
+			"source": "이원패",
+			"target": "염라",
+			"value": -5.36
+		},
+		{
+			"source": "이원패",
+			"target": "노납",
+			"value": -11.26
+		},
+		{
+			"source": "거지",
+			"target": "주천혜",
+			"value": -0.98
+		},
+		{
+			"source": "거지",
+			"target": "사검평",
+			"value": 1.8
+		},
+		{
+			"source": "주천혜",
+			"target": "소제",
+			"value": -17.24
+		},
+		{
+			"source": "주천혜",
+			"target": "거지",
+			"value": -0.98
+		},
+		{
+			"source": "주천혜",
+			"target": "사검평",
+			"value": -58.78
+		},
+		{
+			"source": "노납",
+			"target": "괴인",
+			"value": 1.61
+		},
+		{
+			"source": "노납",
+			"target": "괴승",
+			"value": -10.4
+		},
+		{
+			"source": "노납",
+			"target": "소림",
+			"value": 0.85
+		},
+		{
+			"source": "노납",
+			"target": "이원패",
+			"value": -11.26
+		},
+		{
+			"source": "사검평",
+			"target": "괴인",
+			"value": -18.61
+		},
+		{
+			"source": "사검평",
+			"target": "사부",
+			"value": -10.15
+		},
+		{
+			"source": "사검평",
+			"target": "소제",
+			"value": -8.85
+		},
+		{
+			"source": "사검평",
+			"target": "흡혈",
+			"value": -11.56
+		},
+		{
+			"source": "사검평",
+			"target": "망아",
+			"value": -5.0
+		},
+		{
+			"source": "사검평",
+			"target": "설아",
+			"value": -15.92
+		},
+		{
+			"source": "사검평",
+			"target": "조태명",
+			"value": -13.28
+		},
+		{
+			"source": "사검평",
+			"target": "황승국",
+			"value": -8.7
+		},
+		{
+			"source": "사검평",
+			"target": "염라",
+			"value": -18.97
+		},
+		{
+			"source": "사검평",
+			"target": "거지",
+			"value": 1.8
+		},
+		{
+			"source": "사검평",
+			"target": "주천혜",
+			"value": -58.78
+		}
+	]
+}

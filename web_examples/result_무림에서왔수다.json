@@ -1,0 +1,76 @@
+{
+	"nodes": [
+		{
+			"group": 0,
+			"id": "회장"
+		},
+		{
+			"group": 1,
+			"id": "길동"
+		},
+		{
+			"group": 2,
+			"id": "홍철"
+		},
+		{
+			"group": 3,
+			"id": "어머니"
+		},
+		{
+			"group": 4,
+			"id": "미나"
+		}
+	],
+	"links": [
+		{
+			"target": "길동",
+			"value": -51.79,
+			"source": "회장"
+		},
+		{
+			"target": "회장",
+			"value": -51.79,
+			"source": "길동"
+		},
+		{
+			"target": "홍철",
+			"value": -80.66,
+			"source": "길동"
+		},
+		{
+			"target": "어머니",
+			"value": -43.44,
+			"source": "길동"
+		},
+		{
+			"target": "미나",
+			"value": -158.79,
+			"source": "길동"
+		},
+		{
+			"target": "길동",
+			"value": -80.66,
+			"source": "홍철"
+		},
+		{
+			"target": "길동",
+			"value": -43.44,
+			"source": "어머니"
+		},
+		{
+			"target": "미나",
+			"value": -5.92,
+			"source": "어머니"
+		},
+		{
+			"target": "길동",
+			"value": -158.79,
+			"source": "미나"
+		},
+		{
+			"target": "어머니",
+			"value": -5.92,
+			"source": "미나"
+		}
+	]
+}

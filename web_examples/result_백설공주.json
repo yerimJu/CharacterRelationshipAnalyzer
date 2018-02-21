@@ -1,0 +1,62 @@
+{
+	"nodes": [
+		{
+			"id": "난장이",
+			"group": 0
+		},
+		{
+			"id": "백설공주",
+			"group": 1
+		},
+		{
+			"id": "왕비",
+			"group": 2
+		},
+		{
+			"id": "거울",
+			"group": 3
+		}
+	],
+	"links": [
+		{
+			"target": "백설공주",
+			"value": 6.93,
+			"source": "난장이"
+		},
+		{
+			"target": "왕비",
+			"value": -0.82,
+			"source": "난장이"
+		},
+		{
+			"target": "난장이",
+			"value": 6.93,
+			"source": "백설공주"
+		},
+		{
+			"target": "왕비",
+			"value": 2.41,
+			"source": "백설공주"
+		},
+		{
+			"target": "난장이",
+			"value": -0.82,
+			"source": "왕비"
+		},
+		{
+			"target": "백설공주",
+			"value": 2.41,
+			"source": "왕비"
+		},
+		{
+			"target": "거울",
+			"value": 11.75,
+			"source": "왕비"
+		},
+		{
+			"target": "왕비",
+			"value": 11.75,
+			"source": "거울"
+		}
+	]
+}

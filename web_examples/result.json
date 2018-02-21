@@ -1,0 +1,574 @@
+{
+	"nodes": [
+		{
+			"id": "라이",
+			"group": 0
+		},
+		{
+			"id": "미온",
+			"group": 1
+		},
+		{
+			"id": "키르케",
+			"group": 2
+		},
+		{
+			"id": "리젤",
+			"group": 3
+		},
+		{
+			"id": "루시온",
+			"group": 4
+		},
+		{
+			"id": "무라사",
+			"group": 5
+		},
+		{
+			"id": "루터",
+			"group": 6
+		},
+		{
+			"id": "쇼메",
+			"group": 7
+		},
+		{
+			"id": "카론",
+			"group": 8
+		},
+		{
+			"id": "라이오라",
+			"group": 9
+		},
+		{
+			"id": "이자벨",
+			"group": 10
+		},
+		{
+			"id": "키스",
+			"group": 11
+		}
+	],
+	"links": [
+		{
+			"value": -5.0,
+			"target": "미온",
+			"source": "라이"
+		},
+		{
+			"value": -8.92,
+			"target": "키르케",
+			"source": "라이"
+		},
+		{
+			"value": -5.0,
+			"target": "리젤",
+			"source": "라이"
+		},
+		{
+			"value": -68.2,
+			"target": "무라사",
+			"source": "라이"
+		},
+		{
+			"value": -10.0,
+			"target": "루터",
+			"source": "라이"
+		},
+		{
+			"value": -3.62,
+			"target": "쇼메",
+			"source": "라이"
+		},
+		{
+			"value": -24.9,
+			"target": "카론",
+			"source": "라이"
+		},
+		{
+			"value": -212.75,
+			"target": "라이오라",
+			"source": "라이"
+		},
+		{
+			"value": -16.46,
+			"target": "이자벨",
+			"source": "라이"
+		},
+		{
+			"value": -3.62,
+			"target": "키스",
+			"source": "라이"
+		},
+		{
+			"value": -5.0,
+			"target": "라이",
+			"source": "미온"
+		},
+		{
+			"value": 1.2,
+			"target": "키르케",
+			"source": "미온"
+		},
+		{
+			"value": -42.49,
+			"target": "리젤",
+			"source": "미온"
+		},
+		{
+			"value": -2.44,
+			"target": "루시온",
+			"source": "미온"
+		},
+		{
+			"value": -5.0,
+			"target": "무라사",
+			"source": "미온"
+		},
+		{
+			"value": -1.71,
+			"target": "쇼메",
+			"source": "미온"
+		},
+		{
+			"value": 2.48,
+			"target": "카론",
+			"source": "미온"
+		},
+		{
+			"value": -5.0,
+			"target": "라이오라",
+			"source": "미온"
+		},
+		{
+			"value": -37.58,
+			"target": "이자벨",
+			"source": "미온"
+		},
+		{
+			"value": -35.47,
+			"target": "키스",
+			"source": "미온"
+		},
+		{
+			"value": -8.92,
+			"target": "라이",
+			"source": "키르케"
+		},
+		{
+			"value": 1.2,
+			"target": "미온",
+			"source": "키르케"
+		},
+		{
+			"value": -9.9,
+			"target": "무라사",
+			"source": "키르케"
+		},
+		{
+			"value": -26.18,
+			"target": "루터",
+			"source": "키르케"
+		},
+		{
+			"value": -13.12,
+			"target": "쇼메",
+			"source": "키르케"
+		},
+		{
+			"value": -43.09,
+			"target": "카론",
+			"source": "키르케"
+		},
+		{
+			"value": -8.92,
+			"target": "라이오라",
+			"source": "키르케"
+		},
+		{
+			"value": -8.62,
+			"target": "이자벨",
+			"source": "키르케"
+		},
+		{
+			"value": -3.62,
+			"target": "키스",
+			"source": "키르케"
+		},
+		{
+			"value": -5.0,
+			"target": "라이",
+			"source": "리젤"
+		},
+		{
+			"value": -42.49,
+			"target": "미온",
+			"source": "리젤"
+		},
+		{
+			"value": -1.93,
+			"target": "루시온",
+			"source": "리젤"
+		},
+		{
+			"value": -5.0,
+			"target": "무라사",
+			"source": "리젤"
+		},
+		{
+			"value": -1.93,
+			"target": "쇼메",
+			"source": "리젤"
+		},
+		{
+			"value": -5.0,
+			"target": "라이오라",
+			"source": "리젤"
+		},
+		{
+			"value": -34.92,
+			"target": "이자벨",
+			"source": "리젤"
+		},
+		{
+			"value": -8.27,
+			"target": "키스",
+			"source": "리젤"
+		},
+		{
+			"value": -2.44,
+			"target": "미온",
+			"source": "루시온"
+		},
+		{
+			"value": -1.93,
+			"target": "리젤",
+			"source": "루시온"
+		},
+		{
+			"value": -6.68,
+			"target": "쇼메",
+			"source": "루시온"
+		},
+		{
+			"value": -7.84,
+			"target": "카론",
+			"source": "루시온"
+		},
+		{
+			"value": -9.96,
+			"target": "키스",
+			"source": "루시온"
+		},
+		{
+			"value": -68.2,
+			"target": "라이",
+			"source": "무라사"
+		},
+		{
+			"value": -5.0,
+			"target": "미온",
+			"source": "무라사"
+		},
+		{
+			"value": -9.9,
+			"target": "키르케",
+			"source": "무라사"
+		},
+		{
+			"value": -5.0,
+			"target": "리젤",
+			"source": "무라사"
+		},
+		{
+			"value": -5.0,
+			"target": "루터",
+			"source": "무라사"
+		},
+		{
+			"value": -34.87,
+			"target": "카론",
+			"source": "무라사"
+		},
+		{
+			"value": -68.2,
+			"target": "라이오라",
+			"source": "무라사"
+		},
+		{
+			"value": -5.0,
+			"target": "이자벨",
+			"source": "무라사"
+		},
+		{
+			"value": -4.39,
+			"target": "키스",
+			"source": "무라사"
+		},
+		{
+			"value": -10.0,
+			"target": "라이",
+			"source": "루터"
+		},
+		{
+			"value": -26.18,
+			"target": "키르케",
+			"source": "루터"
+		},
+		{
+			"value": -5.0,
+			"target": "무라사",
+			"source": "루터"
+		},
+		{
+			"value": -14.41,
+			"target": "카론",
+			"source": "루터"
+		},
+		{
+			"value": -10.0,
+			"target": "라이오라",
+			"source": "루터"
+		},
+		{
+			"value": -3.62,
+			"target": "라이",
+			"source": "쇼메"
+		},
+		{
+			"value": -1.71,
+			"target": "미온",
+			"source": "쇼메"
+		},
+		{
+			"value": -13.12,
+			"target": "키르케",
+			"source": "쇼메"
+		},
+		{
+			"value": -1.93,
+			"target": "리젤",
+			"source": "쇼메"
+		},
+		{
+			"value": -6.68,
+			"target": "루시온",
+			"source": "쇼메"
+		},
+		{
+			"value": -4.6,
+			"target": "카론",
+			"source": "쇼메"
+		},
+		{
+			"value": -3.62,
+			"target": "라이오라",
+			"source": "쇼메"
+		},
+		{
+			"value": -17.62,
+			"target": "이자벨",
+			"source": "쇼메"
+		},
+		{
+			"value": -3.62,
+			"target": "키스",
+			"source": "쇼메"
+		},
+		{
+			"value": -24.9,
+			"target": "라이",
+			"source": "카론"
+		},
+		{
+			"value": 2.48,
+			"target": "미온",
+			"source": "카론"
+		},
+		{
+			"value": -43.09,
+			"target": "키르케",
+			"source": "카론"
+		},
+		{
+			"value": -7.84,
+			"target": "루시온",
+			"source": "카론"
+		},
+		{
+			"value": -34.87,
+			"target": "무라사",
+			"source": "카론"
+		},
+		{
+			"value": -14.41,
+			"target": "루터",
+			"source": "카론"
+		},
+		{
+			"value": -4.6,
+			"target": "쇼메",
+			"source": "카론"
+		},
+		{
+			"value": -20.11,
+			"target": "라이오라",
+			"source": "카론"
+		},
+		{
+			"value": -6.5,
+			"target": "이자벨",
+			"source": "카론"
+		},
+		{
+			"value": -52.47,
+			"target": "키스",
+			"source": "카론"
+		},
+		{
+			"value": -212.75,
+			"target": "라이",
+			"source": "라이오라"
+		},
+		{
+			"value": -5.0,
+			"target": "미온",
+			"source": "라이오라"
+		},
+		{
+			"value": -8.92,
+			"target": "키르케",
+			"source": "라이오라"
+		},
+		{
+			"value": -5.0,
+			"target": "리젤",
+			"source": "라이오라"
+		},
+		{
+			"value": -68.2,
+			"target": "무라사",
+			"source": "라이오라"
+		},
+		{
+			"value": -10.0,
+			"target": "루터",
+			"source": "라이오라"
+		},
+		{
+			"value": -3.62,
+			"target": "쇼메",
+			"source": "라이오라"
+		},
+		{
+			"value": -20.11,
+			"target": "카론",
+			"source": "라이오라"
+		},
+		{
+			"value": -16.46,
+			"target": "이자벨",
+			"source": "라이오라"
+		},
+		{
+			"value": -3.62,
+			"target": "키스",
+			"source": "라이오라"
+		},
+		{
+			"value": -16.46,
+			"target": "라이",
+			"source": "이자벨"
+		},
+		{
+			"value": -37.58,
+			"target": "미온",
+			"source": "이자벨"
+		},
+		{
+			"value": -8.62,
+			"target": "키르케",
+			"source": "이자벨"
+		},
+		{
+			"value": -34.92,
+			"target": "리젤",
+			"source": "이자벨"
+		},
+		{
+			"value": -5.0,
+			"target": "무라사",
+			"source": "이자벨"
+		},
+		{
+			"value": -17.62,
+			"target": "쇼메",
+			"source": "이자벨"
+		},
+		{
+			"value": -6.5,
+			"target": "카론",
+			"source": "이자벨"
+		},
+		{
+			"value": -16.46,
+			"target": "라이오라",
+			"source": "이자벨"
+		},
+		{
+			"value": -13.45,
+			"target": "키스",
+			"source": "이자벨"
+		},
+		{
+			"value": -3.62,
+			"target": "라이",
+			"source": "키스"
+		},
+		{
+			"value": -35.47,
+			"target": "미온",
+			"source": "키스"
+		},
+		{
+			"value": -3.62,
+			"target": "키르케",
+			"source": "키스"
+		},
+		{
+			"value": -8.27,
+			"target": "리젤",
+			"source": "키스"
+		},
+		{
+			"value": -9.96,
+			"target": "루시온",
+			"source": "키스"
+		},
+		{
+			"value": -4.39,
+			"target": "무라사",
+			"source": "키스"
+		},
+		{
+			"value": -3.62,
+			"target": "쇼메",
+			"source": "키스"
+		},
+		{
+			"value": -52.47,
+			"target": "카론",
+			"source": "키스"
+		},
+		{
+			"value": -3.62,
+			"target": "라이오라",
+			"source": "키스"
+		},
+		{
+			"value": -13.45,
+			"target": "이자벨",
+			"source": "키스"
+		}
+	]
+}

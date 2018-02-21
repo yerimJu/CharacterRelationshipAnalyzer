@@ -1,0 +1,886 @@
+{
+	"nodes": [
+		{
+			"id": "리젤",
+			"group": 0
+		},
+		{
+			"id": "카론",
+			"group": 1
+		},
+		{
+			"id": "미온",
+			"group": 2
+		},
+		{
+			"id": "이오타",
+			"group": 3
+		},
+		{
+			"id": "지금",
+			"group": 4
+		},
+		{
+			"id": "키르케",
+			"group": 5
+		},
+		{
+			"id": "루시온",
+			"group": 6
+		},
+		{
+			"id": "무라사",
+			"group": 7
+		},
+		{
+			"id": "라이",
+			"group": 8
+		},
+		{
+			"id": "루터",
+			"group": 9
+		},
+		{
+			"id": "이자벨",
+			"group": 10
+		},
+		{
+			"id": "키스",
+			"group": 11
+		},
+		{
+			"id": "라이오라",
+			"group": 12
+		},
+		{
+			"id": "쇼메",
+			"group": 13
+		},
+		{
+			"id": "전하",
+			"group": 14
+		}
+	],
+	"links": [
+		{
+			"target": "미온",
+			"value": -42.49,
+			"source": "리젤"
+		},
+		{
+			"target": "이오타",
+			"value": -3.73,
+			"source": "리젤"
+		},
+		{
+			"target": "지금",
+			"value": -2.84,
+			"source": "리젤"
+		},
+		{
+			"target": "루시온",
+			"value": -1.93,
+			"source": "리젤"
+		},
+		{
+			"target": "무라사",
+			"value": -5.0,
+			"source": "리젤"
+		},
+		{
+			"target": "라이",
+			"value": -5.0,
+			"source": "리젤"
+		},
+		{
+			"target": "이자벨",
+			"value": -34.92,
+			"source": "리젤"
+		},
+		{
+			"target": "키스",
+			"value": -8.27,
+			"source": "리젤"
+		},
+		{
+			"target": "라이오라",
+			"value": -5.0,
+			"source": "리젤"
+		},
+		{
+			"target": "쇼메",
+			"value": -1.93,
+			"source": "리젤"
+		},
+		{
+			"target": "미온",
+			"value": 2.48,
+			"source": "카론"
+		},
+		{
+			"target": "지금",
+			"value": -64.65,
+			"source": "카론"
+		},
+		{
+			"target": "키르케",
+			"value": -43.09,
+			"source": "카론"
+		},
+		{
+			"target": "루시온",
+			"value": -7.84,
+			"source": "카론"
+		},
+		{
+			"target": "무라사",
+			"value": -34.87,
+			"source": "카론"
+		},
+		{
+			"target": "라이",
+			"value": -24.9,
+			"source": "카론"
+		},
+		{
+			"target": "루터",
+			"value": -14.41,
+			"source": "카론"
+		},
+		{
+			"target": "이자벨",
+			"value": -6.5,
+			"source": "카론"
+		},
+		{
+			"target": "키스",
+			"value": -52.47,
+			"source": "카론"
+		},
+		{
+			"target": "라이오라",
+			"value": -20.11,
+			"source": "카론"
+		},
+		{
+			"target": "쇼메",
+			"value": -4.6,
+			"source": "카론"
+		},
+		{
+			"target": "전하",
+			"value": -9.07,
+			"source": "카론"
+		},
+		{
+			"target": "리젤",
+			"value": -42.49,
+			"source": "미온"
+		},
+		{
+			"target": "카론",
+			"value": 2.48,
+			"source": "미온"
+		},
+		{
+			"target": "이오타",
+			"value": -3.73,
+			"source": "미온"
+		},
+		{
+			"target": "지금",
+			"value": -1.26,
+			"source": "미온"
+		},
+		{
+			"target": "키르케",
+			"value": 1.2,
+			"source": "미온"
+		},
+		{
+			"target": "루시온",
+			"value": -2.44,
+			"source": "미온"
+		},
+		{
+			"target": "무라사",
+			"value": -5.0,
+			"source": "미온"
+		},
+		{
+			"target": "라이",
+			"value": -5.0,
+			"source": "미온"
+		},
+		{
+			"target": "이자벨",
+			"value": -37.58,
+			"source": "미온"
+		},
+		{
+			"target": "키스",
+			"value": -35.47,
+			"source": "미온"
+		},
+		{
+			"target": "라이오라",
+			"value": -5.0,
+			"source": "미온"
+		},
+		{
+			"target": "쇼메",
+			"value": -1.71,
+			"source": "미온"
+		},
+		{
+			"target": "전하",
+			"value": -3.47,
+			"source": "미온"
+		},
+		{
+			"target": "리젤",
+			"value": -3.73,
+			"source": "이오타"
+		},
+		{
+			"target": "미온",
+			"value": -3.73,
+			"source": "이오타"
+		},
+		{
+			"target": "지금",
+			"value": 10.4,
+			"source": "이오타"
+		},
+		{
+			"target": "루시온",
+			"value": -7.14,
+			"source": "이오타"
+		},
+		{
+			"target": "라이",
+			"value": -15.0,
+			"source": "이오타"
+		},
+		{
+			"target": "이자벨",
+			"value": -5.0,
+			"source": "이오타"
+		},
+		{
+			"target": "키스",
+			"value": -4.17,
+			"source": "이오타"
+		},
+		{
+			"target": "라이오라",
+			"value": -15.0,
+			"source": "이오타"
+		},
+		{
+			"target": "쇼메",
+			"value": -18.72,
+			"source": "이오타"
+		},
+		{
+			"target": "전하",
+			"value": -5.0,
+			"source": "이오타"
+		},
+		{
+			"target": "리젤",
+			"value": -2.84,
+			"source": "지금"
+		},
+		{
+			"target": "카론",
+			"value": -64.65,
+			"source": "지금"
+		},
+		{
+			"target": "미온",
+			"value": -1.26,
+			"source": "지금"
+		},
+		{
+			"target": "이오타",
+			"value": 10.4,
+			"source": "지금"
+		},
+		{
+			"target": "키르케",
+			"value": -10.1,
+			"source": "지금"
+		},
+		{
+			"target": "루시온",
+			"value": -4.6,
+			"source": "지금"
+		},
+		{
+			"target": "무라사",
+			"value": -12.44,
+			"source": "지금"
+		},
+		{
+			"target": "라이",
+			"value": -4.37,
+			"source": "지금"
+		},
+		{
+			"target": "루터",
+			"value": -14.09,
+			"source": "지금"
+		},
+		{
+			"target": "이자벨",
+			"value": -0.2,
+			"source": "지금"
+		},
+		{
+			"target": "키스",
+			"value": -41.94,
+			"source": "지금"
+		},
+		{
+			"target": "라이오라",
+			"value": -4.37,
+			"source": "지금"
+		},
+		{
+			"target": "쇼메",
+			"value": -10.28,
+			"source": "지금"
+		},
+		{
+			"target": "카론",
+			"value": -43.09,
+			"source": "키르케"
+		},
+		{
+			"target": "미온",
+			"value": 1.2,
+			"source": "키르케"
+		},
+		{
+			"target": "지금",
+			"value": -10.1,
+			"source": "키르케"
+		},
+		{
+			"target": "무라사",
+			"value": -9.9,
+			"source": "키르케"
+		},
+		{
+			"target": "라이",
+			"value": -8.92,
+			"source": "키르케"
+		},
+		{
+			"target": "루터",
+			"value": -26.18,
+			"source": "키르케"
+		},
+		{
+			"target": "이자벨",
+			"value": -8.62,
+			"source": "키르케"
+		},
+		{
+			"target": "키스",
+			"value": -3.62,
+			"source": "키르케"
+		},
+		{
+			"target": "라이오라",
+			"value": -8.92,
+			"source": "키르케"
+		},
+		{
+			"target": "쇼메",
+			"value": -13.12,
+			"source": "키르케"
+		},
+		{
+			"target": "전하",
+			"value": -1.6,
+			"source": "키르케"
+		},
+		{
+			"target": "리젤",
+			"value": -1.93,
+			"source": "루시온"
+		},
+		{
+			"target": "카론",
+			"value": -7.84,
+			"source": "루시온"
+		},
+		{
+			"target": "미온",
+			"value": -2.44,
+			"source": "루시온"
+		},
+		{
+			"target": "이오타",
+			"value": -7.14,
+			"source": "루시온"
+		},
+		{
+			"target": "지금",
+			"value": -4.6,
+			"source": "루시온"
+		},
+		{
+			"target": "키스",
+			"value": -9.96,
+			"source": "루시온"
+		},
+		{
+			"target": "쇼메",
+			"value": -6.68,
+			"source": "루시온"
+		},
+		{
+			"target": "리젤",
+			"value": -5.0,
+			"source": "무라사"
+		},
+		{
+			"target": "카론",
+			"value": -34.87,
+			"source": "무라사"
+		},
+		{
+			"target": "미온",
+			"value": -5.0,
+			"source": "무라사"
+		},
+		{
+			"target": "지금",
+			"value": -12.44,
+			"source": "무라사"
+		},
+		{
+			"target": "키르케",
+			"value": -9.9,
+			"source": "무라사"
+		},
+		{
+			"target": "라이",
+			"value": -68.2,
+			"source": "무라사"
+		},
+		{
+			"target": "루터",
+			"value": -5.0,
+			"source": "무라사"
+		},
+		{
+			"target": "이자벨",
+			"value": -5.0,
+			"source": "무라사"
+		},
+		{
+			"target": "키스",
+			"value": -4.39,
+			"source": "무라사"
+		},
+		{
+			"target": "라이오라",
+			"value": -68.2,
+			"source": "무라사"
+		},
+		{
+			"target": "리젤",
+			"value": -5.0,
+			"source": "라이"
+		},
+		{
+			"target": "카론",
+			"value": -24.9,
+			"source": "라이"
+		},
+		{
+			"target": "미온",
+			"value": -5.0,
+			"source": "라이"
+		},
+		{
+			"target": "이오타",
+			"value": -15.0,
+			"source": "라이"
+		},
+		{
+			"target": "지금",
+			"value": -4.37,
+			"source": "라이"
+		},
+		{
+			"target": "키르케",
+			"value": -8.92,
+			"source": "라이"
+		},
+		{
+			"target": "무라사",
+			"value": -68.2,
+			"source": "라이"
+		},
+		{
+			"target": "루터",
+			"value": -10.0,
+			"source": "라이"
+		},
+		{
+			"target": "이자벨",
+			"value": -16.8,
+			"source": "라이"
+		},
+		{
+			"target": "키스",
+			"value": -3.62,
+			"source": "라이"
+		},
+		{
+			"target": "라이오라",
+			"value": -212.09,
+			"source": "라이"
+		},
+		{
+			"target": "쇼메",
+			"value": -3.62,
+			"source": "라이"
+		},
+		{
+			"target": "전하",
+			"value": -7.3,
+			"source": "라이"
+		},
+		{
+			"target": "카론",
+			"value": -14.41,
+			"source": "루터"
+		},
+		{
+			"target": "지금",
+			"value": -14.09,
+			"source": "루터"
+		},
+		{
+			"target": "키르케",
+			"value": -26.18,
+			"source": "루터"
+		},
+		{
+			"target": "무라사",
+			"value": -5.0,
+			"source": "루터"
+		},
+		{
+			"target": "라이",
+			"value": -10.0,
+			"source": "루터"
+		},
+		{
+			"target": "라이오라",
+			"value": -10.0,
+			"source": "루터"
+		},
+		{
+			"target": "리젤",
+			"value": -34.92,
+			"source": "이자벨"
+		},
+		{
+			"target": "카론",
+			"value": -6.5,
+			"source": "이자벨"
+		},
+		{
+			"target": "미온",
+			"value": -37.58,
+			"source": "이자벨"
+		},
+		{
+			"target": "이오타",
+			"value": -5.0,
+			"source": "이자벨"
+		},
+		{
+			"target": "지금",
+			"value": -0.2,
+			"source": "이자벨"
+		},
+		{
+			"target": "키르케",
+			"value": -8.62,
+			"source": "이자벨"
+		},
+		{
+			"target": "무라사",
+			"value": -5.0,
+			"source": "이자벨"
+		},
+		{
+			"target": "라이",
+			"value": -16.8,
+			"source": "이자벨"
+		},
+		{
+			"target": "키스",
+			"value": -13.45,
+			"source": "이자벨"
+		},
+		{
+			"target": "라이오라",
+			"value": -16.8,
+			"source": "이자벨"
+		},
+		{
+			"target": "쇼메",
+			"value": -17.62,
+			"source": "이자벨"
+		},
+		{
+			"target": "전하",
+			"value": 4.29,
+			"source": "이자벨"
+		},
+		{
+			"target": "리젤",
+			"value": -8.27,
+			"source": "키스"
+		},
+		{
+			"target": "카론",
+			"value": -52.47,
+			"source": "키스"
+		},
+		{
+			"target": "미온",
+			"value": -35.47,
+			"source": "키스"
+		},
+		{
+			"target": "이오타",
+			"value": -4.17,
+			"source": "키스"
+		},
+		{
+			"target": "지금",
+			"value": -41.94,
+			"source": "키스"
+		},
+		{
+			"target": "키르케",
+			"value": -3.62,
+			"source": "키스"
+		},
+		{
+			"target": "루시온",
+			"value": -9.96,
+			"source": "키스"
+		},
+		{
+			"target": "무라사",
+			"value": -4.39,
+			"source": "키스"
+		},
+		{
+			"target": "라이",
+			"value": -3.62,
+			"source": "키스"
+		},
+		{
+			"target": "이자벨",
+			"value": -13.45,
+			"source": "키스"
+		},
+		{
+			"target": "라이오라",
+			"value": -3.62,
+			"source": "키스"
+		},
+		{
+			"target": "쇼메",
+			"value": -3.62,
+			"source": "키스"
+		},
+		{
+			"target": "전하",
+			"value": -3.87,
+			"source": "키스"
+		},
+		{
+			"target": "리젤",
+			"value": -5.0,
+			"source": "라이오라"
+		},
+		{
+			"target": "카론",
+			"value": -20.11,
+			"source": "라이오라"
+		},
+		{
+			"target": "미온",
+			"value": -5.0,
+			"source": "라이오라"
+		},
+		{
+			"target": "이오타",
+			"value": -15.0,
+			"source": "라이오라"
+		},
+		{
+			"target": "지금",
+			"value": -4.37,
+			"source": "라이오라"
+		},
+		{
+			"target": "키르케",
+			"value": -8.92,
+			"source": "라이오라"
+		},
+		{
+			"target": "무라사",
+			"value": -68.2,
+			"source": "라이오라"
+		},
+		{
+			"target": "라이",
+			"value": -212.09,
+			"source": "라이오라"
+		},
+		{
+			"target": "루터",
+			"value": -10.0,
+			"source": "라이오라"
+		},
+		{
+			"target": "이자벨",
+			"value": -16.8,
+			"source": "라이오라"
+		},
+		{
+			"target": "키스",
+			"value": -3.62,
+			"source": "라이오라"
+		},
+		{
+			"target": "쇼메",
+			"value": -3.62,
+			"source": "라이오라"
+		},
+		{
+			"target": "전하",
+			"value": -7.3,
+			"source": "라이오라"
+		},
+		{
+			"target": "리젤",
+			"value": -1.93,
+			"source": "쇼메"
+		},
+		{
+			"target": "카론",
+			"value": -4.6,
+			"source": "쇼메"
+		},
+		{
+			"target": "미온",
+			"value": -1.71,
+			"source": "쇼메"
+		},
+		{
+			"target": "이오타",
+			"value": -18.72,
+			"source": "쇼메"
+		},
+		{
+			"target": "지금",
+			"value": -10.28,
+			"source": "쇼메"
+		},
+		{
+			"target": "키르케",
+			"value": -13.12,
+			"source": "쇼메"
+		},
+		{
+			"target": "루시온",
+			"value": -6.68,
+			"source": "쇼메"
+		},
+		{
+			"target": "라이",
+			"value": -3.62,
+			"source": "쇼메"
+		},
+		{
+			"target": "이자벨",
+			"value": -17.62,
+			"source": "쇼메"
+		},
+		{
+			"target": "키스",
+			"value": -3.62,
+			"source": "쇼메"
+		},
+		{
+			"target": "라이오라",
+			"value": -3.62,
+			"source": "쇼메"
+		},
+		{
+			"target": "전하",
+			"value": -4.66,
+			"source": "쇼메"
+		},
+		{
+			"target": "카론",
+			"value": -9.07,
+			"source": "전하"
+		},
+		{
+			"target": "미온",
+			"value": -3.47,
+			"source": "전하"
+		},
+		{
+			"target": "이오타",
+			"value": -5.0,
+			"source": "전하"
+		},
+		{
+			"target": "키르케",
+			"value": -1.6,
+			"source": "전하"
+		},
+		{
+			"target": "라이",
+			"value": -7.3,
+			"source": "전하"
+		},
+		{
+			"target": "이자벨",
+			"value": 4.29,
+			"source": "전하"
+		},
+		{
+			"target": "키스",
+			"value": -3.87,
+			"source": "전하"
+		},
+		{
+			"target": "라이오라",
+			"value": -7.3,
+			"source": "전하"
+		},
+		{
+			"target": "쇼메",
+			"value": -4.66,
+			"source": "전하"
+		}
+	]
+}

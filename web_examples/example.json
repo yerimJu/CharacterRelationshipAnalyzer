@@ -1,0 +1,19 @@
+{
+	"nodes": [
+		{"id": "백설공주", "group": 1},
+		{"id": "왕비", "group": 2},
+		{"id": "난장이", "group": 3},
+		{"id": "거울", "group": 4}
+	],
+
+	"links": [
+    	{"source": "백설공주", "target": "왕비", "value": 0.91},
+    	{"source": "백설공주", "target": "난장이", "value": -1.45},
+    	{"source": "난장이", "target": "왕비", "value": -0.82},
+    	{"source": "거울", "target": "왕비", "value": 2.83}
+	],
+
+	"sizes": [
+		1,4,2,3
+	]
+}

@@ -1,0 +1,7 @@
+ngram,freq,COMP,NEG,NEUT,None,POS,max.value,max.prop
+가/VX;ㄹ/ETM;계획/NNG,1,0,0,0,0,1,POS,1
+가능/NNG;하/XSA;ㄴ/ETM,1,0,0,0,0,1,POS,1
+가르치/VV;ㄹ/ETM,1,0,0,0,0,1,POS,1
+가르치/VV;ㄹ/ETM;수/NNB,1,0,0,0,0,1,POS,1
+가장/MAG;고독/NNG,1,0,1,0,0,0,NEG,1
+가장/MAG;고독/NNG;하/XSA,1,0,1,0,0,0,NEG,1

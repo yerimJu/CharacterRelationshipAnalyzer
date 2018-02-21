@@ -1,0 +1,48 @@
+{
+	"nodes": [
+		{
+			"id": "너구리",
+			"group": 0
+		},
+		{
+			"id": "토끼",
+			"group": 1
+		},
+		{
+			"id": "할머니",
+			"group": 2
+		}
+	],
+	"links": [
+		{
+			"source": "너구리",
+			"target": "토끼",
+			"value": 3.57
+		},
+		{
+			"source": "너구리",
+			"target": "할머니",
+			"value": -7.79
+		},
+		{
+			"source": "토끼",
+			"target": "너구리",
+			"value": 3.57
+		},
+		{
+			"source": "토끼",
+			"target": "할머니",
+			"value": 25.83
+		},
+		{
+			"source": "할머니",
+			"target": "너구리",
+			"value": -7.79
+		},
+		{
+			"source": "할머니",
+			"target": "토끼",
+			"value": 25.83
+		}
+	]
+}

@@ -1,0 +1,302 @@
+{
+	"nodes": [
+		{
+			"group": 0,
+			"id": "천마"
+		},
+		{
+			"group": 1,
+			"id": "황제"
+		},
+		{
+			"group": 2,
+			"id": "무림"
+		},
+		{
+			"group": 3,
+			"id": "소녀"
+		},
+		{
+			"group": 4,
+			"id": "남궁"
+		},
+		{
+			"group": 5,
+			"id": "파천"
+		},
+		{
+			"group": 6,
+			"id": "윤문"
+		},
+		{
+			"group": 7,
+			"id": "의노"
+		},
+		{
+			"group": 8,
+			"id": "환노"
+		}
+	],
+	"links": [
+		{
+			"value": -8.9,
+			"target": "황제",
+			"source": "천마"
+		},
+		{
+			"value": -25.39,
+			"target": "무림",
+			"source": "천마"
+		},
+		{
+			"value": -5.0,
+			"target": "남궁",
+			"source": "천마"
+		},
+		{
+			"value": -41.45,
+			"target": "파천",
+			"source": "천마"
+		},
+		{
+			"value": -43.02,
+			"target": "윤문",
+			"source": "천마"
+		},
+		{
+			"value": -33.7,
+			"target": "의노",
+			"source": "천마"
+		},
+		{
+			"value": -34.74,
+			"target": "환노",
+			"source": "천마"
+		},
+		{
+			"value": -8.9,
+			"target": "천마",
+			"source": "황제"
+		},
+		{
+			"value": -17.6,
+			"target": "무림",
+			"source": "황제"
+		},
+		{
+			"value": -9.33,
+			"target": "파천",
+			"source": "황제"
+		},
+		{
+			"value": -17.73,
+			"target": "윤문",
+			"source": "황제"
+		},
+		{
+			"value": -5.34,
+			"target": "의노",
+			"source": "황제"
+		},
+		{
+			"value": -5.34,
+			"target": "환노",
+			"source": "황제"
+		},
+		{
+			"value": -25.39,
+			"target": "천마",
+			"source": "무림"
+		},
+		{
+			"value": -17.6,
+			"target": "황제",
+			"source": "무림"
+		},
+		{
+			"value": -10.0,
+			"target": "소녀",
+			"source": "무림"
+		},
+		{
+			"value": -29.26,
+			"target": "남궁",
+			"source": "무림"
+		},
+		{
+			"value": -47.35,
+			"target": "파천",
+			"source": "무림"
+		},
+		{
+			"value": -26.53,
+			"target": "윤문",
+			"source": "무림"
+		},
+		{
+			"value": -5.0,
+			"target": "의노",
+			"source": "무림"
+		},
+		{
+			"value": -1.04,
+			"target": "환노",
+			"source": "무림"
+		},
+		{
+			"value": -10.0,
+			"target": "무림",
+			"source": "소녀"
+		},
+		{
+			"value": -28.67,
+			"target": "남궁",
+			"source": "소녀"
+		},
+		{
+			"value": -20.0,
+			"target": "파천",
+			"source": "소녀"
+		},
+		{
+			"value": -5.0,
+			"target": "천마",
+			"source": "남궁"
+		},
+		{
+			"value": -29.26,
+			"target": "무림",
+			"source": "남궁"
+		},
+		{
+			"value": -28.67,
+			"target": "소녀",
+			"source": "남궁"
+		},
+		{
+			"value": -64.75,
+			"target": "파천",
+			"source": "남궁"
+		},
+		{
+			"value": -5.0,
+			"target": "윤문",
+			"source": "남궁"
+		},
+		{
+			"value": -41.45,
+			"target": "천마",
+			"source": "파천"
+		},
+		{
+			"value": -9.33,
+			"target": "황제",
+			"source": "파천"
+		},
+		{
+			"value": -47.35,
+			"target": "무림",
+			"source": "파천"
+		},
+		{
+			"value": -20.0,
+			"target": "소녀",
+			"source": "파천"
+		},
+		{
+			"value": -64.75,
+			"target": "남궁",
+			"source": "파천"
+		},
+		{
+			"value": -5.73,
+			"target": "윤문",
+			"source": "파천"
+		},
+		{
+			"value": -43.02,
+			"target": "천마",
+			"source": "윤문"
+		},
+		{
+			"value": -17.73,
+			"target": "황제",
+			"source": "윤문"
+		},
+		{
+			"value": -26.53,
+			"target": "무림",
+			"source": "윤문"
+		},
+		{
+			"value": -5.0,
+			"target": "남궁",
+			"source": "윤문"
+		},
+		{
+			"value": -5.73,
+			"target": "파천",
+			"source": "윤문"
+		},
+		{
+			"value": -45.85,
+			"target": "의노",
+			"source": "윤문"
+		},
+		{
+			"value": -31.02,
+			"target": "환노",
+			"source": "윤문"
+		},
+		{
+			"value": -33.7,
+			"target": "천마",
+			"source": "의노"
+		},
+		{
+			"value": -5.34,
+			"target": "황제",
+			"source": "의노"
+		},
+		{
+			"value": -5.0,
+			"target": "무림",
+			"source": "의노"
+		},
+		{
+			"value": -45.85,
+			"target": "윤문",
+			"source": "의노"
+		},
+		{
+			"value": -51.93,
+			"target": "환노",
+			"source": "의노"
+		},
+		{
+			"value": -34.74,
+			"target": "천마",
+			"source": "환노"
+		},
+		{
+			"value": -5.34,
+			"target": "황제",
+			"source": "환노"
+		},
+		{
+			"value": -1.04,
+			"target": "무림",
+			"source": "환노"
+		},
+		{
+			"value": -31.02,
+			"target": "윤문",
+			"source": "환노"
+		},
+		{
+			"value": -51.93,
+			"target": "의노",
+			"source": "환노"
+		}
+	]
+}
